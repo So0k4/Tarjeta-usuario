@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid gray;
+    position: relative;
+}
+.espacio{
+    height: 100px;
+    background-color: rgb(4, 182, 182);
+}
+
+#user{
+    background-color: #fff;
+    border: 5px solid #999;
+    position: absolute;
+    width: 100px;
+    top: 50px;
+    left: 10px;
+    border-radius: 50%;
+}
+.ser{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 60px;
+    margin-left: 15px;
+}
+.icono{
+    width: 20px;
+    margin-right: 5px;
+    margin-bottom: 8px;
+}
+.caracter{
+    margin-bottom: 5px;
+}
+.wea{
+    display: flex;
+    margin-top: 8px;
+}
+.ubi{
+    display: flex;
+    align-items: center;
+}
